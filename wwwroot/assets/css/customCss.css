@@ -1,0 +1,9 @@
+﻿body {
+}
+.card-options a{
+    margin-right: 20px;
+}
+
+.card-options a:last-child {
+    margin-right: 0px;
+}
